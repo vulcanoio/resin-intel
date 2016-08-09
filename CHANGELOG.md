@@ -1,6 +1,16 @@
 Change log
 -----------
 
+# v1.8.0 - 2016-08-02
+
+* Bump meta-resin to v1.8 [Andrei]
+* Bump resin-device-types to include partial manifest support [Andrei]
+* No more debug images in staging
+
+# v1.7.0 - 2016-07-14
+
+* Update meta-resin to v1.7
+
 # v1.6.0 - 2016-07-06
 
 * Update meta-resin to v1.6 [Florin]
